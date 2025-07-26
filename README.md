@@ -55,7 +55,11 @@ The scoring logic assumes:
 - Inactive or low-gas wallets may be abandoned or inactive → **higher risk**
 
 ---
+## 🧾 Sample Output
 
+![Sample Output](images/output_csv_preview.png)
+
+---
 ## 📁 Deliverables
 
 - ✅ `data/wallet_features.csv`: Input features for each wallet  
