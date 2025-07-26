@@ -57,7 +57,7 @@ The scoring logic assumes:
 ---
 ## 🧾 Sample Output
 
-![Sample Output](images/output_csv_preview.png)
+![Sample Output](image/output_csv_preview.png)
 
 ---
 ## 📁 Deliverables
